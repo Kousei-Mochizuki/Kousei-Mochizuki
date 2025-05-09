@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=unity,py,html,css,js,react,typescript,vite,)](https://skillicons.dev)
+
+
+![](https://komarev.com/ghpvc/?username=Kousei-Mochizuki&color=blue&style=flat-square)
+
+
+
 <!--
 **Kousei-Mochizuki/Kousei-Mochizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=Kousei-Mochizuki&color=blue&style=flat-square)
